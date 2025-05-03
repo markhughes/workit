@@ -41,3 +41,6 @@ const threadedFunction = workit(
 ## TODO
 
 - cache workers, don't recreate them every time 
+- improve stack traces from worker 
+- create automation for imports (perhaps a swc plugin)
+- publish it
